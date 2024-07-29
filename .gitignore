@@ -1,0 +1,7 @@
+# python compiled files
+__pycache__/
+*.pyc
+
+# ipynb checkpoint files
+.ipynb_checkpoints/
+*-checkpoint.ipynb
